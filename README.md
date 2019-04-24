@@ -1,1 +1,5 @@
-# qiushibaike_duanzi
+# 糗事百科段子爬取
+
+将糗事百科的段子爬下来 并且做一个界面可在线观看段子
+
+所含库：re模块  pyqt5模块 urllib模块 ssl模块
